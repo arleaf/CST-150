@@ -1,0 +1,10 @@
+longestttttt
+apple
+zebras
+voweeels
+hi
+no
+Longest Word in File is longestttttt
+Word with most vowels is voweeels
+First Word Alphabetically is apple
+Last Word Alphabetically is zebras
